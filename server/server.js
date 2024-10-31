@@ -12,10 +12,10 @@ app.get('/api/products', (req, res) => {
   const products = [
     { 
       id: 1, 
-      name: 'Cámara web HD 1080P', 
-      oldPrice: 37500, 
-      price: 35000, 
-      urlImg: 'https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSmYckEMeFKNyPfp2TJu1Fup4HIBjibtiCqO3I6nbhWev7LIyxevl52_-aZwkaoJmuOVxzl0GTcx9nqq5G4T3ArSy99H_T5&usqp=CAE'
+      name: 'Antiestres Gran Tecla Enter', 
+      oldPrice: 25000, 
+      price: 15000, 
+      urlImg: 'https://http2.mlstatic.com/D_NQ_NP_800828-MLA72266020440_102023-O.webp'
     },
     {
       id: 2, 
@@ -26,10 +26,10 @@ app.get('/api/products', (req, res) => {
     },
     { 
       id: 3, 
-      name: 'Disco-solido interno kingston sata-960g',  
-      oldPrice: 18500, 
-      price: 18000, 
-      urlImg: 'https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQwqHX1fVP2DUn6mEw05ukydZ6KOgkf0w3N3ZEHHJnDUW7WtxSEzdOZ73YxCn-FBC5kYxGeF4wy9zakpXVDOXbjQouNAmyH1LTbzkyuK2t0u9We1eAqfkFFDw&usqp=CAE' 
+      name: 'Remera Desarrollador',  
+      oldPrice: 1500, 
+      price: 1000, 
+      urlImg: 'https://images-cdn.ubuy.ae/658c61e72a899c417078c99b-basic-baby-logic-code-programming-funny.jpg' 
     },
     { 
       id: 3, 
